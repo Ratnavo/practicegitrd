@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-11T06:50:02.050Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="GNCZ74guij6JuKH1Ca4C" version="18.0.2" type="github">
+<mxfile modified="2022-05-11T06:51:09.872Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="77AMzOhGDv9CE-6WXmyT" version="18.0.2" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="2447" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -364,6 +364,21 @@
         </mxCell>
         <mxCell id="jjt15t9csxyYAKDNQg0m-11" value="Gateway_Subnet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="730" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jjt15t9csxyYAKDNQg0m-12" value="Policy_Based" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="329" y="650" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jjt15t9csxyYAKDNQg0m-13" value="Route_Based" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262" y="490" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jjt15t9csxyYAKDNQg0m-14" value="Route_Based" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="162" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jjt15t9csxyYAKDNQg0m-15" value="Route_Based" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.24" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jjt15t9csxyYAKDNQg0m-17" value="Route_Based" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="-126" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
