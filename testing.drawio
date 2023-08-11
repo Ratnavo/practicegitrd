@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T20:45:57.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KYAPOMJVj0jkWs60FE-R" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T20:48:47.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C0_4AZz0qbBFOc29JIEC" version="21.6.8" type="github">
   <diagram name="Page-1" id="KdCPvyaEyFZrJNqloSRo">
     <mxGraphModel dx="1900" dy="1209" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,19 +167,13 @@
           <mxGeometry x="63" y="140" width="261" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EuIpPgGyZxs1bAB_q9Bw-45" value="&lt;h1&gt;&lt;font color=&quot;#330000&quot;&gt;Email Triggered&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#330000&quot;&gt;Welcome to Wishven platform. An automation platform to regulate all verticals of wishes.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="284.5" y="1187" width="190" height="120" as="geometry" />
+          <mxGeometry x="289" y="1443" width="227" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="EuIpPgGyZxs1bAB_q9Bw-46" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1363" width="90" height="100" as="geometry" />
+        <mxCell id="EuIpPgGyZxs1bAB_q9Bw-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;rotation=90;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="299" y="1202" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EuIpPgGyZxs1bAB_q9Bw-47" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="352" y="1386" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="EuIpPgGyZxs1bAB_q9Bw-48" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1311" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="EuIpPgGyZxs1bAB_q9Bw-49" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="352" y="1332" width="90" height="100" as="geometry" />
+        <mxCell id="EuIpPgGyZxs1bAB_q9Bw-54" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="297" y="1301" width="161" height="133" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
